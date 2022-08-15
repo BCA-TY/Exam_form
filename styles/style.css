@@ -1,0 +1,40 @@
+.heading{
+    background-color: yellow;
+    border: 2px;
+    padding: 5px;
+    align-items: center;
+}
+.form-div{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-div-content{
+    background-color: skyblue;
+    height: 500px ;
+    width: 350px;
+    
+    align-items: center;
+    justify-content: center;
+   
+}
+.text{
+    font-size:25px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.form-content{
+margin: 25px;
+
+}
+.form-content-field{
+    margin: 10px;
+}
+form-paper-content{
+    color: white;
+}
+form-paper{
+    background-color: white;
+}
